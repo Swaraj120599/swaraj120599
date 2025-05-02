@@ -85,7 +85,7 @@ I’m a curious data enthusiast who loves diving into datasets and finding the s
    An interactive Power BI dashboard analyzing AdventureWorks’ revenue, profit, product performance, and customer behavior with a business-friendly interface.
 
 ### 📈 Tableau Projects
-- [Retail-Insights-Tableau](https://github.com/Swaraj120599/Retail-Insights-Tableau)
+- [Retail-Insights-Tableau](https://github.com/Swaraj120599/Retail-Insights-Tableau) 
 
   A Tableau-driven executive dashboard offering insights into retail KPIs, sales targets, regional performance, and product profitability.
 
