@@ -24,7 +24,9 @@ Libraries & Tech: pandas, matplotlib, seaborn, NumPy
 
 Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboarding, Business Intelligence
 
-<!-- Power BI -->
+<p>
+
+  <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   &nbsp;&nbsp;
 
