@@ -39,7 +39,7 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
   &nbsp;&nbsp;
 
   <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="50"/>
   &nbsp;&nbsp;
 
   <!-- Python -->
