@@ -25,7 +25,8 @@ Libraries & Tech: pandas, matplotlib, seaborn, NumPy
 Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboarding, Business Intelligence
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel Workbook Logo" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="Excel Workbook Icon" width="60" height="60"/>
+  
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   &nbsp;&nbsp;
