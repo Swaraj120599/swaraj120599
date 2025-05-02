@@ -25,10 +25,7 @@ Libraries & Tech: pandas, matplotlib, seaborn, NumPy
 Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboarding, Business Intelligence
 
 
-<p>
-  <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="60" height="60"/>
-  &nbsp;&nbsp;
+
 
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
@@ -44,6 +41,14 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="60"/>
+</p>
+
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
+  &nbsp;&nbsp;
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
 </p>
 ***
 
