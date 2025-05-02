@@ -113,4 +113,3 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
 ## 🤝 Let's Connect:-
 - 📫 Reach me: swarajkondhare@gmail.com
 
-## ⚡ Fun fact:- 
