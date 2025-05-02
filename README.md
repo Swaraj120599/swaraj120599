@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ChatGPT Image May 2, 2025, 06_20_55 PM](https://github.com/user-attachments/assets/d7871589-3762-4272-8c98-f9c5c9093be2)
-
 ##  Hi, I'm Swaraj  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 I’m a curious data enthusiast who loves diving into datasets and finding the stories they tell. With tools like SQL, Python, Excel, Power BI, and Tableau, I build projects that turn messy data into meaningful insights.
 ***
