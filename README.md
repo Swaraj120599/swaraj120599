@@ -28,6 +28,7 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
   &nbsp;&nbsp;
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
 </p>
 
