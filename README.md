@@ -26,12 +26,25 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
 
 
 <p>
+  <!-- Excel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
   &nbsp;&nbsp;
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-</p>
 
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  &nbsp;&nbsp;
+
+  <!-- SQL (generic database icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  &nbsp;&nbsp;
+
+  <!-- Tableau -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+  &nbsp;&nbsp;
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
 ***
 
 ## 📂 Projects
