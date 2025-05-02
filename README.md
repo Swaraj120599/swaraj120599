@@ -47,9 +47,6 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
 
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
-
- <!-- Excel -->
- <img src="https://www.vecteezy.com/png/27179360-microsoft-excel-icon-logo-symbol.svg" alt="excel" width="50" height="60"/>
 </p>
 
 
