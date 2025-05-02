@@ -24,7 +24,7 @@ Libraries & Tech: pandas, matplotlib, seaborn, NumPy
 
 Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboarding, Business Intelligence
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Logo"/>
 </a>
 
