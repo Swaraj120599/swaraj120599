@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 ##  Hi, I'm Swaraj  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="60" height="40">
 I’m a curious data enthusiast who loves diving into datasets and finding the stories they tell. With tools like SQL, Python, Excel, Power BI, and Tableau, I build projects that turn messy data into meaningful insights.
 ***
-## 🔧 Technical Skills
-Languages & Tools: Python, SQL, Excel, Power BI, Tableau
-
-Libraries & Tech: pandas, matplotlib, seaborn, NumPy
-
-Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboarding, Business Intelligence
+## 🔧 Languages & Tools
 
 <p>
   <!-- Power BI -->
@@ -48,8 +43,6 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
 </p>
-
-
 
 ***
 
@@ -109,6 +102,12 @@ Focus Areas: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashb
 
 📌 Start blogging about data tips and mini case studies
 ***
+## Focus Areas:
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+- Dashboarding
+- Business Intelligence
 
 ## 🤝 Let's Connect:-
 - 📫 Reach me: swarajkondhare@gmail.com
