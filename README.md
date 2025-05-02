@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                  ![image](https://github.com/user-attachments/assets/b226a8c0-e5c3-4a2d-ae8d-fa3e9d844a5a)
+##  ![image](https://github.com/user-attachments/assets/b226a8c0-e5c3-4a2d-ae8d-fa3e9d844a5a)
 
 ##  Hi, I'm Swaraj  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 I’m a curious data enthusiast who loves diving into datasets and finding the stories they tell. With tools like SQL, Python, Excel, Power BI, and Tableau, I build projects that turn messy data into meaningful insights.
