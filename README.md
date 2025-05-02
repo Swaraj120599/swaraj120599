@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  Hi, I'm Swaraj  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="30">
+##  Hi, I'm Swaraj  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="40">
 I’m a curious data enthusiast who loves diving into datasets and finding the stories they tell. With tools like SQL, Python, Excel, Power BI, and Tableau, I build projects that turn messy data into meaningful insights.
 ***
 ## 🔧 Technical Skills
