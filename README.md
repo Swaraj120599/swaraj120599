@@ -102,7 +102,7 @@ I’m a curious data enthusiast who loves diving into datasets and finding the s
 
 📌 Start blogging about data tips and mini case studies
 ***
-## Focus Areas:
+## Roles and Responsibilties:
 - Data Cleaning
 - Data Visualization
 - Exploratory Data Analysis
@@ -111,4 +111,5 @@ I’m a curious data enthusiast who loves diving into datasets and finding the s
 
 ## 🤝 Let's Connect:-
 - 📫 Reach me: swarajkondhare@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/swaraj-kondhare-6b9674180/)
 
